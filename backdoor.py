@@ -1,4 +1,4 @@
-# eLearnSecurity 2013
+#!/usr/bin/env python3
 
 import socket, platform, os
 

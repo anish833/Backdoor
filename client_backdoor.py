@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python3
 import socket
 
 Server_Address = input("Type the server IP address: ")
